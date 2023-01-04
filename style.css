@@ -1,0 +1,20 @@
+.jumbotron{
+    background-color:paleturquoise;
+}
+.display-4{
+    font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.lead{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight:600;
+}
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight:500;
+}
+img:hover { 
+    	transform: scale(1.5); 
+    }
